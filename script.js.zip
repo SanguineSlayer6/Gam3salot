@@ -1,0 +1,7 @@
+/* If you're feeling fancy you can add interactivity 
+    to your site with Javascript */
+
+// prints "What you doin here?" and "Better not be HACKING!" in the browser's dev tools console.
+console.log(
+  "You there! Wanna join the Dev team? Get the inside scoop? Email me at BlackHexFury896@protonmail.com for more info!"
+);
