@@ -6,6 +6,10 @@ body {
   margin: 0;
   height: 100%;
 }
+#twitch-embed {
+  width: 855px;
+  height: 855px;
+}
 .navbar-icon-top .navbar-nav .nav-link > .fa {
   position: relative;
   width: 36px;
