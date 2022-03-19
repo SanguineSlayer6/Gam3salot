@@ -126,7 +126,7 @@ body {
   .sidenav {
     height: 1500px;
     width: 175px;
-    position: absoluted;
+    position: absolute;
     z-index: 1;
     top: 0;
     left: 0;
