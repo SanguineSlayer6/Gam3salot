@@ -126,14 +126,13 @@ body {
   .sidenav {
     height: 1500px;
     width: 175px;
-    position: relative;
+    position: absoluted;
     z-index: 1;
     top: 0;
     left: 0;
     background-color: #111;
     overflow-x: visible;
     padding-top: 20px;
-    min-height: 0;
     bottom: 45px;
     float: left;
     min-height: calc(100vh - 2em);
